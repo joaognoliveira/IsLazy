@@ -1,3 +1,4 @@
-# Vídeos contendo a execução das situações citadas (2, 4, 8, 16 Threads)
+# Testes de execução:
 
-* Utilizando comando time para comparação
+* Um vídeo mostrando o **código fonte** do programa, a **compilação do programa**, um **trecho do arquivo
+de entrada** e a **execução do programa** para *2, 4, 8 e 16 threads.*
