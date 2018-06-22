@@ -9,7 +9,7 @@ Leonardo Ferrari Soares - 201164.
 
 * Pasta **Projeto1** contendo o código fonte pronto para compilação em sistemas Linux e a pasta **GeraMatriz**, contendo os códigos para obtenção de matrizes para testes no projeto.
 
-* **Relatorio.md** contendo a explicação da solução do problema (algoritmo em alto nível) e link para esse mesmo repositório (entrega de pdf correspondente no moodle).
+* **Relatorio.pdf** contendo a explicação da solução do problema (algoritmo em alto nível) e link para esse mesmo repositório (entrega de pdf correspondente no moodle).
 
 * Pasta **Testes** contendo vídeos das execuções do projeto em diversas condições (numero de threads), devidamente comentados.
 
